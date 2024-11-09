@@ -1,0 +1,7 @@
+.env
+env/
+find_person_env/
+*.log
+*.docx
+__pycache__
+*.json

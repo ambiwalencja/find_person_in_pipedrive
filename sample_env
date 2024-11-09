@@ -1,0 +1,38 @@
+
+PIPEDRIVE_API_KEY=asdkrghdfguhsdgsdfghstg
+
+PIPEDRIVE_URL_BASE=https://fghjdtyjsgh.sdfgh/
+
+MAILBOX_USERNAME=fjhsfhsrtfh
+MAILBOX_PASSWORD=srthsftghsfth
+
+DB_CONNECTION_STRING=tfjytfjhgfjhgfjhgf
+
+DRY_RUN=1
+
+RESEND_API_KEY=blabla
+#REDIS
+REDIS_USER=default
+REDIS_PASSWORD=slkdjalskdjalksdj
+REDIS_HOST=sjhfkajdhfd
+REDIS_PORT=25061
+REDIS_DB=1
+# GDRIVE
+GDRIVE_FOLDER_ID=rthsrthsrth
+# GDRIVE CREDENTIALS
+TYPE=sthsrth
+PROJECT_ID=strargsdrg
+PRIVATE_KEY_ID=drgsdf
+PRIVATE_KEY=stydghs
+CLIENT_EMAIL=ststgstg
+CLIENT_ID=116031590707232756293
+AUTH_URI=sdgsdfgs
+TOKEN_URI=sdgsdfg
+AUTH_PROVIDER_X509_CERT_URL=sdgsdfgsd
+CLIENT_X509_CERT_URL=sdfgsdr
+UNIVERSE_DOMAIN=fyuikuoyt
+
+# USERS & AUTHENTICATION
+SECRET_KEY=fthsrtyrt
+ACCESS_TOKEN_EXPIRE_MINUTES=sdfgsdfgds
+REGISTER_PASSPHRASE=dsirutyeruye87ryisuyfds
